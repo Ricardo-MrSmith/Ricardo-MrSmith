@@ -3,7 +3,7 @@ Hi, I’m a developer at Mr. Smith, where I work across a range of projects that
 
 ## 🌐 Socials:
 <p align='left'>
-  <a href="https://linkedin.com/in/Ricardo van de Rakt"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ricardo-van-de-rakt-063902141"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <br />
 
